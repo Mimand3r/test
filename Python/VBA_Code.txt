@@ -1,0 +1,51 @@
+Private WithEvents Items As Outlook.Items
+
+Public Function TimeInMS() As String
+    TimeInMS = Strings.Format(Now, "HH_nn_ss") & "_" & Strings.Right(Strings.Format(Timer, "#0.00"), 2)
+End Function
+ 
+Private Sub Application_Startup()
+         Dim objApp As Outlook.Application
+         Dim objNameSpace As Outlook.NameSpace
+         Set objApp = Outlook.Application
+         Set objNameSpace = objApp.GetNamespace("MAPI")
+         
+         ' MsgBox (path)
+         ' Diese Zeile Ändern je nachdem welchem Folder man zuhört
+         ' Das Beispiel zeigt wie man vorgeht wenn Folder Parallel zu Posteingang liegt
+         ' Ist der Folder ein Kind des Posteingangs so benutze: Folders(1).Folders(1).Folders("TestOrdner")
+         ' Set Items = objNameSpace.Folders(1).Folders("TestOrdner").Items
+         
+         Set Items = objNameSpace.Folders(1).Folders("Posteingang").Items
+         
+         ' MsgBox (objNameSpace.Folders(3))
+ 
+ 
+End Sub
+ 
+Private Sub Items_ItemAdd(ByVal objItem As Object)
+         On Error GoTo ShowError
+         Dim objMail As Outlook.MailItem
+            
+ 
+         If TypeName(objItem) = "MailItem" Then
+                   Set objMail = objItem
+ 
+                    ' Diese Zeile so ändern das sie in den Trigger Ordner des Ticket Prompters führt
+                    ' Der Name muss email.txt sein (Wird von PythonScript erwartet)
+                    ' MsgBox ("Email da")
+                   
+                   Dim path As String
+                   path = "C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\Python\TriggerSection\neueTrigger\email" & TimeInMS() & ".msg"
+                   objMail.SaveAs path, olMSG
+                  
+ 
+         End If
+ 
+         Exit Sub
+ 
+ShowError:
+         MsgBox Err.Number & " - " & Err.Description
+End Sub
+
+

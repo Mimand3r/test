@@ -1,0 +1,962 @@
+1539786572041	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.2l0MPomjLj9l"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539786572828	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539786575032	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539786575234	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539786575235	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539786575602	Marionette	INFO	Listening on port 53898
+1539786575833	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1539786575871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539796151066	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.LFzJZCYAybHR"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796151811	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796154215	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539796154333	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539796154333	addons.repository	WARN	Search failed when adding add-ons to cache
+1539796154812	Marionette	INFO	Listening on port 58706
+1539796154903	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796155168	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Parent 15624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11984, [Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2388, Chrome_ChildThread] WARNING: pipe error: 109: file[Parent 15624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+58.0.2 aMaxResults 1
+1539796201150	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796201577	Marionette	INFO	Listening on port 58817
+1539796201691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539796201894	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Child 16972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16972, Chr[Child 1584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1584, Ch[Parent 20732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7520, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539796244701	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.dwnzJMRIWqEf"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796245408	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796247556	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539796247756	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539796247756	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796247959	Marionette	INFO	Listening on port 58926
+1539796248077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539796248421	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Parent 21148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 21148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13360, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539796512367	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796512581	Marionette	INFO	Listening on port 59655
+1539796512904	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1539796512997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Child 15788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15788, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796580816	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539796581018	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539796581018	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796581159	Marionette	INFO	Listening on port 59802
+1539796581318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539796581637	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Parent 7576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1288,[GPU 17672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+h
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796615514	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539796615717	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539796615717	addons.repository	WARN	Search failed when adding add-ons to cache
+1539796615926	Marionette	INFO	Listening on port 59891
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539796616254	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1539796616300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 2616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2616, Chrome_Ch[Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14704, Chrome_ChildThr[Parent 13484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 808, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539797065349	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.HsJEQJwDalxj"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539797066142	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539797068690	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539797068820	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539797068820	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539797069347	Marionette	INFO	Listening on port 60707
+1539797069620	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1539797069674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 14664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9512, Chro[Parent 14664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19340, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539798465253	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.6vbGRjWKRMEH"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798466154	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798472589	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.uCfjzs5cltxw"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798473819	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798477615	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539798477750	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539798477750	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798478298	Marionette	INFO	Listening on port 62911
+1539798478446	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798478688	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539798650842	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.dVxUMAVnwQ2f"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798651677	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798654269	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539798654392	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539798654392	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798654895	Marionette	INFO	Listening on port 63248
+1539798655202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539798655295	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 1720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1364, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539798673142	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.J80YUxQ2HnQJ"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798673814	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798676788	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539798676894	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539798676894	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539798677463	Marionette	INFO	Listening on port 63318
+1539798677500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539798677810	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 19212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 19212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1774*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539799132045	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.XjOi7TzJJsRm"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799132761	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799136135	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539799136377	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539799136377	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799136658	Marionette	INFO	Listening on port 64047
+1539799137007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539799137300	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 9696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9696, Chrome_Chil[Parent 5904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19268, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539799272600	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.7kQzn8egGQye"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799273213	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799275564	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539799275671	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539799275672	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799276056	Marionette	INFO	Listening on port 64349
+1539799276435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 10400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14940, Chrome_ChildThread]1539799281908	addons.repository	WARN	Search failed when adding add-ons to cache
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16388, Chrome_Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1539799282071	addons.xpi	WARN	Failed to install C:\Apps\Mozilla Firefox\cck2\resources\addons\german_dictionary-2.0.6-an+fx+sm+tb.xpi from resource://cck2_edag-config/addons/german_dictionary-2.0.6-an+fx+sm+tb.xpi to C:\Users\hb77322\AppData\Local\Temp\rust_mozprofile.7kQzn8egGQye\extensions\staged\de-DE@dictionaries.addons.mozilla.org: TypeError: this.installs is null (resource://gre/modules/addons/XPIProvider.jsm:3668:5) JS Stack trace: removeActiveInstall@XPIProvider.jsm:3668:5 < startInstall/<@XPIInstall.jsm:1797:9 < observe@AsyncShutdown.jsm:535:9
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3668: TypeError: this.installs is null
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539799368491	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.fZiMuP8uvYI2"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799369151	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799371437	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1539799371659	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1539799371659	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1539799371884	Marionette	INFO	Listening on port 64568
+1539799372123	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Apps/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Apps/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+[Child 11660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11660, CJavaScript error: jar:file:///C:/Apps/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///C:/Apps/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 324: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 158: Error: Data is not ready.
+JavaScript error: resource://pdf.js/PdfJs.jsm, line 251: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]'[JavaScript Error: "Data is not ready." {file: "resource://gre/modules/JSONFile.jsm" line: 158}]' when calling method: [nsIHandlerService::store]
+1539799372360	addons.manager	ERROR	Failure during AddonRepository shutdown: Error: The object has been already finalized. (resource://gre/modules/DeferredTask.jsm:244:13) JS Stack trace: finalize@DeferredTask.jsm:244:13 < shutdown@AddonRepository.jsm:1622:19 < shutdown@AddonRepository.jsm:516:12 < shutdownManager@AddonManager.jsm:1133:13 < observe@AsyncShutdown.jsm:535:9
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  AddonManager: shutting down.
+          Phase: profile-before-change
+          State: [{"name":"AddonRepository: async shutdown","state":"in progress"}]
+WARNING: Error: The object has been already finalized.
+WARNING: finalize@resource://gre/modules/DeferredTask.jsm:244:13
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:1622:19
+shutdown@resource://gre/modules/addons/AddonRepository.jsm:516:12
+shutdownManager@resource://gre/modules/AddonManager.jsm:1133:13
+observe@resource://gre/modules/AsyncShutdown.jsm:535:9
+
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 244: Error: The object has been already finalized.
+1539799372415	addons.xpi	WARN	Failed to install C:\Apps\Mozilla Firefox\cck2\resources\addons\german_dictionary-2.0.6-an+fx+sm+tb.xpi from resource://cck2_edag-config/addons/german_dictionary-2.0.6-an+fx+sm+tb.xpi to C:\Users\hb77322\AppData\Local\Temp\rust_mozprofile.fZiMuP8uvYI2\extensions\staged\de-DE@dictionaries.addons.mozilla.org: TypeError: this.installs is null (resource://gre/modules/addons/XPIProvider.jsm:3668:5) JS Stack trace: removeActiveInstall@XPIProvider.jsm:3668:5 < startInstall/<@XPIInstall.jsm:1797:9 < observe@AsyncShutdown.jsm:535:9
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 3668: TypeError: this.installs is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to DirectoryIterator_prototype_close
+JavaScript error: resource://gre/modules/ProfileAge.jsm, line 176: Error: Unable to fetch oldest profile entry: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540912213917	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.xP5OCfC6Wtwr"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912214820	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912217338	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540912217549	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540912217549	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912217711	Marionette	INFO	Listening on port 53821
+1540912217783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540912218309	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Child 9656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9656, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912718123	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540912718333	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540912718333	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912718540	Marionette	INFO	Listening on port 53938
+1540912718907	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540912718952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Parent 3024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Child 7540, Chrome_ChildThread] WARNIn/ipc_chNG: pipe error:annel_win.cc, line 346
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[pc_channel_win.cc, line 346
+[Child 7540, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+envrpaths.vrpath
+1540912829197	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540912829400	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540912829400	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912829669	Marionette	INFO	Listening on port 54004
+1540912829957	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540912830016	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 15532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15532, C[Child 1000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1000, Chrome_[Child 712*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540912905477	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.c800lw88aPa4"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912906061	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912908403	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540912908546	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540912908546	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540912908840	Marionette	INFO	Listening on port 54056
+1540912909231	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540912909315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 11060, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11120, Chro[Child 8376, Chrome_Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540913018312	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.pdT4dYG2hKDr"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913018917	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913021176	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540913021275	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540913021275	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913021726	Marionette	INFO	Listening on port 54112
+1540913021960	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540913022142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 16012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16012[Child 9264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9264, Chr[Child 15656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15656, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540913855692	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.6bb4lckGitQq"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913856336	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913858640	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540913858734	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540913858734	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913859025	Marionette	INFO	Listening on port 54403
+1540913859460	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540913859523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Parent 1552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, [Child 12604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12604, Ch[Parent 1552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15428, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540913899922	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.Yl6JneiugBq3"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913900525	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913902809	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540913902910	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540913902910	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913903244	Marionette	INFO	Listening on port 54453
+1540913903635	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540913903742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 68, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 68, Chrome_ChildThread] W*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540913939784	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.s3PYI73nNqZm"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913940369	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913942595	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540913942721	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540913942721	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540913943235	Marionette	INFO	Listening on port 54498
+1540913943466	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540913943608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7644, Chr[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676, Chrom[Parent 16612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13140, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 3232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540914717694	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.lv4VGU6LxCUh"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914718292	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914720620	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540914720814	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540914720815	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914721199	Marionette	INFO	Listening on port 54655
+1540914721322	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540914721521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+tabs.onRemoved event fired after context unloaded.
+tabs.onRemoved event fired after context unloaded.
+[Parent 11968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1320, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540914833801	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.7M0rtFIVOswc"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914834402	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914836605	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540914836807	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540914836807	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540914836987	Marionette	INFO	Listening on port 54714
+1540914837071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540914837534	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+[Parent 216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16560, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540915006642	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.sxIPc64ILswn"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915007220	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915009506	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540915009730	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540915009730	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915010058	Marionette	INFO	Listening on port 54774
+1540915010289	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540915010470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+JavaScript error: https://portal.cpn.vwg/login/login_de.html, line 280: ReferenceError: event is not defined
+[Child 17160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17160, C[Parent 7616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540915145631	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.UeyGHIXfiI64"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915146223	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915148498	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540915148608	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540915148608	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915149015	Marionette	INFO	Listening on port 54833
+1540915149296	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+1540915149458	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1698[Child 3052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3052, Chrome_ChildThread] WARNING: pipe error: 1[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1636, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540915228647	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.G0KJrzzzrlx3"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915229231	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915231415	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540915231600	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540915231601	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915231735	Marionette	INFO	Listening on port 54884
+1540915231889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540915232314	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+[Parent 2052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[Child 6164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6164, Chrome_ChildThrea*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1540915365467	mozrunner::runner	INFO	Running command: "C:\\Apps\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hb77322\\AppData\\Local\\Temp\\rust_mozprofile.Se7cqWRrM76p"
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915366072	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915368264	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1540915368465	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/de/firefox/api/1.5/search/guid:uBlock0%40raymondhill.net?src=firefox&appOS=WINNT&appVersion=58.0.2 aMaxResults 1
+1540915368465	addons.repository	WARN	Search failed when adding add-ons to cache
+Unable to read VR Path Registry from C:\Users\hb77322\AppData\Local\openvr\openvrpaths.vrpath
+1540915368688	Marionette	INFO	Listening on port 54945
+1540915368803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540915369151	addons.xpi	WARN	Add-on de-DE@dictionaries.addons.mozilla.org is missing bootstrap method install
+[Child 15644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15644, Chrome_ChildT[Child 4968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4968, Chro[Parent 6112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

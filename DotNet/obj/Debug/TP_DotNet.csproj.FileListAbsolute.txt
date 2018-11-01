@@ -1,0 +1,175 @@
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+D:\Heinrich\Projekte\PythonProjekt\005_Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.ConsoleForm.resources
+C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.ConsoleForm.resources
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.ConsoleForm.resources
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hb77322\Repos\PythonProjekte\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+D:\Heinrich\Projekte\EdagProjekte\001_Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageEinstellungen.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageEinstellungen.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Pages.PageEinstellungen.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Pages.PageEinstellungen.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Pages.PageEinstellungen.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hb77322\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\mr-mc\Desktop\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe.config
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\bin\Debug\TP_DotNet.pdb
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csprojAssemblyReference.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPage.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.MainPageNew.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Pages.PageEinstellungen.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageHistory.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageOutlook.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.PageStarten.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.Properties.Resources.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.TriggerFolders.resources
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.GenerateResource.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CoreCompileInputs.cache
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.csproj.CopyComplete
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.exe
+C:\Users\mr-mc\Desktop\Ticket_Prompter (1)\Ticket_Prompter\DotNet\obj\Debug\TP_DotNet.pdb
