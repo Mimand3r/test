@@ -46,15 +46,14 @@ def mache_diss_ticket(settings: Settings, information: Information):
         sende_nachricht(error_message=ErrorMessages.DissWebsiteZugriff)
         driver.close()
 
-
-    try:
-        # Umstellen auf UserID
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "modeMsg")))
-        first_klick = driver.find_element_by_id("modeMsg")
-        first_klick.click()
-    except:
-        sende_nachricht(error_message=ErrorMessages.DissUserIDButton)
-        driver.close()
+    # Scheint unnötig
+    # try:
+    #     # Umstellen auf UserID
+    #     first_klick = driver.find_element_by_id("modeMsg")
+    #     first_klick.click()
+    # except:
+    #     sende_nachricht(error_message=ErrorMessages.DissUserIDButton)
+    #     driver.close()
 
     try:
         # Füllen des Usernamen
