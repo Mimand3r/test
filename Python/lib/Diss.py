@@ -75,6 +75,7 @@ def mache_diss_ticket(settings: Settings, information: Information):
         driver.close()
 
     try:
+        WebDriverWait(driver, 8).until(EC.presence_of_element_located(By.ID))
         first_klick = driver.find_element_by_id("B_BtnFBAusloesen")
         first_klick.click()
     except:

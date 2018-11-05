@@ -5,6 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8178b3-207b-4717-b5d8-8cb5a97a8fc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.Pages.PageEinstellungen.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.Pages.PageEinstellungen.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/Diss.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Diss.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -329,14 +344,34 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1056257008">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="18" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+            <state relative-caret-position="391">
+              <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
               <folding>
                 <element signature="e#54#65#0" expanded="true" />
               </folding>
@@ -356,8 +391,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Diss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+            <state relative-caret-position="731">
+              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -521,22 +556,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -571,6 +590,22 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="TriggerSection" type="462c0819:PsiDirectoryNode" />
               <item name="verpassteTrigger" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -763,9 +798,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25271413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -956,8 +990,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="47" column="73" selection-start-line="47" selection-start-column="73" selection-end-line="47" selection-end-column="73" />
+        <state relative-caret-position="391">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
           <folding>
             <element signature="e#54#65#0" expanded="true" />
           </folding>
@@ -966,8 +1000,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Diss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+        <state relative-caret-position="731">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
