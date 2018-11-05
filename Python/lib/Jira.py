@@ -5,6 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support.ui import Select
 
 from lib import Information
+from lib.SeleniumDriver import driver_setup
 import time
 
 
@@ -12,9 +13,7 @@ def mache_jira_ticket(information: Information):
 
     # Jira Setup
     jira_url = "https://cocoa.volkswagen.de/sjira/issues/"
-    profile = webdriver.FirefoxProfile(r"C:\Users\FOX4HUT\AppData\Roaming\Mozilla\Firefox\Profiles\shyc01be.default")
-    profile.set_preference("security.default_personal_cert", "Select Automatically")
-    driver = webdriver.Firefox(profile)
+    driver = driver_setup()
     driver.get(jira_url)
 
     # Klicke Certificate Button

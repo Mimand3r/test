@@ -4,91 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/lib/JSON.py" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8178b3-207b-4717-b5d8-8cb5a97a8fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/SettingsReader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/ExecutePythonCore.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/JSON_Classes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/KeyfileManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/MainPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/MainPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/MainPageNew.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/MainPageNew.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/MainPageNew.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/MainPageNew.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/MainPageNew.resx" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/MainPageNew.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/Properties/Settings.settings" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/Properties/Settings.settings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/Reporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/TP_DotNet.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/TP_DotNet.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/assets/Design/UIKonzept_2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/assets/Design/UIKonzept_2.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Release/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Release/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Release/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Release/TP_DotNet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/keyfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.MainPage.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.MainPage.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.MainPageNew.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.MainPageNew.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.TriggerFolders.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.TriggerFolders.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.MainPage.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.MainPage.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.TriggerFolders.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.TriggerFolders.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Release/TP_DotNet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Neues Textdokument.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets-2018-09.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets-2018-10.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_16-28-04.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_16-29-25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-24-48.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-30-01.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-30-37.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-31-17.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-39-25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-41-27.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-42-12.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-43-57.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-44-49.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-45-08.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_17-47-15.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_18-04-25.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_18-04-33.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-20-18.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-23-07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-41-29.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-48-03.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-48-07.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_19-51-24.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_20-01-24.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-17_20-07-49.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-18.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-18_10-18-00.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelLogFiles/Tickets_2018-10-18_10-18-37.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicketPrompter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TicketPrompter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Diss.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Diss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/JSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/JSON.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/worker/CheckeGeltungszeitaum.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/worker/CheckeGeltungszeitaum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/worker/json_writing_worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/worker/json_writing_worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runData.json" beforeDir="false" afterPath="$PROJECT_DIR$/runData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testDissLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/testDissLogin.py" afterDir="false" />
-    </list>
+    <list default="true" id="0d8178b3-207b-4717-b5d8-8cb5a97a8fc2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,6 +297,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1607946374">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="216" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="216" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -388,7 +333,7 @@
         <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#54#65#0" expanded="true" />
               </folding>
@@ -399,26 +344,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/JSON.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/worker/json_writing_worker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="1547">
+              <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -426,8 +353,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Diss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+            <state relative-caret-position="272">
+              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/SeleniumDriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Jira.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -526,7 +474,6 @@
         <option value="$PROJECT_DIR$/testeJira.py" />
         <option value="$PROJECT_DIR$/lib/EmailParser.py" />
         <option value="$PROJECT_DIR$/userProfileHowTo.py" />
-        <option value="$PROJECT_DIR$/lib/Jira.py" />
         <option value="$PROJECT_DIR$/lib/Login.py" />
         <option value="$PROJECT_DIR$/lib/worker/CheckeGeltungszeitaum.py" />
         <option value="$PROJECT_DIR$/lib/SettingsReader.py" />
@@ -535,8 +482,10 @@
         <option value="$PROJECT_DIR$/lib/worker/json_writing_worker.py" />
         <option value="$PROJECT_DIR$/lib/JSON.py" />
         <option value="$PROJECT_DIR$/lib/SendeModul.py" />
-        <option value="$PROJECT_DIR$/lib/Diss.py" />
         <option value="$PROJECT_DIR$/TicketPrompter.py" />
+        <option value="$PROJECT_DIR$/lib/SeleniumDriver.py" />
+        <option value="$PROJECT_DIR$/lib/Jira.py" />
+        <option value="$PROJECT_DIR$/lib/Diss.py" />
       </list>
     </option>
   </component>
@@ -569,6 +518,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -603,22 +568,6 @@
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="TriggerSection" type="462c0819:PsiDirectoryNode" />
               <item name="verpassteTrigger" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="Ticket-Prompter" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lib" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -813,7 +762,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25271413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -888,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Jira.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testDissLogin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -927,13 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="95" column="4" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -995,17 +930,41 @@
     <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#54#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Jira.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/SeleniumDriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Diss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+        <state relative-caret-position="272">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>

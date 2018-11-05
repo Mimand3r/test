@@ -31,7 +31,7 @@ json_file_name = "runData.json"  # Wird benutzt zur Rückgabe der Infos an dotNe
 # -----------------------------------------------------------------------
 # Dev Parameters
 
-turn_off_Diss = True
+turn_off_Diss = False
 turn_off_Jira = True
 
 # -----------------------------------------------------------------------

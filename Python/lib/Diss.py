@@ -4,7 +4,8 @@ from selenium.webdriver.common.keys import Keys
 from lib import Information
 from lib.SettingsReader import Settings
 from lib.worker.CheckeGeltungszeitaum import checke_geltungszeitraum
-from lib.SendeModul import ErrorMessages,sende_nachricht
+from lib.SendeModul import ErrorMessages, sende_nachricht
+from lib.SeleniumDriver import driver_setup
 
 
 def mache_diss_ticket(settings: Settings, information: Information):
@@ -33,9 +34,8 @@ def mache_diss_ticket(settings: Settings, information: Information):
                 "dokumentieren. Nutzen Sie bitte zur besseren Beschreibung der Beanstandung, den angehängten " \
                 "Fragebogen. Freundliche Grüße Tobias Huthwelker "
 
+    driver = driver_setup()
     try:
-        # driver = webdriver.Chrome()
-        driver = webdriver.Firefox()
         driver.get(information.url)
     except:
         sende_nachricht(error_message=ErrorMessages.DissWebsiteZugriff)
@@ -67,11 +67,9 @@ def mache_diss_ticket(settings: Settings, information: Information):
         driver.close()
 
 
-    # # Klicke Bearbeiten
-    # first_klick = driver.find_element_by_id("B_BtnBearbeiten")
-    # first_klick.click()
+    # Warte kurz
+    driver.implicitly_wait()
 
-    # FeldBeobachtung auslösen Button
     try:
         first_klick = driver.find_element_by_id("B_BtnFBAusloesen")
         first_klick.click()
