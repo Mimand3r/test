@@ -1,5 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+
 
 from lib import Information
 from lib.SettingsReader import Settings
@@ -43,6 +47,7 @@ def mache_diss_ticket(settings: Settings, information: Information):
 
     try:
         # Umstellen auf UserID
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "modeMsg")))
         first_klick = driver.find_element_by_id("modeMsg")
         first_klick.click()
     except:
@@ -51,6 +56,7 @@ def mache_diss_ticket(settings: Settings, information: Information):
 
     try:
         # Füllen des Usernamen
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "user")))
         Userid = driver.find_element_by_name("user")
         Userid.send_keys(settings.username)
     except:
@@ -59,6 +65,7 @@ def mache_diss_ticket(settings: Settings, information: Information):
 
     try:
         # Füllen des Passworts
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "Password1")))
         Passwort = driver.find_element_by_id("Password1")
         Passwort.send_keys(settings.password)
         Passwort.send_keys(Keys.ENTER)
