@@ -36,7 +36,7 @@ Private Sub Items_ItemAdd(ByVal objItem As Object)
                     ' MsgBox ("Email da")
                    
                    Dim path As String
-                   path = "C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\Python\TriggerSection\neueTrigger\email" & TimeInMS() & ".msg"
+                   path = "C:\Users\hb77322\Repos\PythonProjekte\004_TicketPrompter\Ticket_Prompter\Python\TriggerSection\neueTrigger\" & TimeInMS() & ".msg"
                    objMail.SaveAs path, olMSG
                   
  

@@ -39,7 +39,7 @@ namespace TP_DotNet.Helper
             ergebnis += "\tIf TypeName(objItem) = \"MailItem\" Then\n";
             ergebnis += "\t\tSet objMail = objItem\n";
             ergebnis += "\t\tDim path As String\n";
-            ergebnis += $"\t\tpath = \"{path}\" & TimeInMS() & \".msg\"\n";
+            ergebnis += $"\t\tpath = \"{path}\\\" & TimeInMS() & \".msg\"\n";
             ergebnis += "\t\tobjMail.SaveAs path, olMSG\n\n";
             ergebnis += "\tEnd If\n\n";
             ergebnis += "\tExit Sub\n\n";
