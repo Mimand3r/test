@@ -5,8 +5,138 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8178b3-207b-4717-b5d8-8cb5a97a8fc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-25_16-46-25.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_18-56-28.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_18-57-17.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_18-58-32.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-08-21.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-21-08.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-22-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-22-44.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-23-20.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-23-51.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-24-29.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-25-39.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-25-46.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-29-52.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-26_19-30-33.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_17-29-24.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_17-29-50.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-10-04.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-10-21.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-11-15.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-11-56.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-12-08.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_18-12-20.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-23-14.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-23-21.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-24-01.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-24-58.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-25-15.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-29-52.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-31-49.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-32-01.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-32-54.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-33-01.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-33-09.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-33-16.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-40-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-40-12.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-40-34.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-40-49.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-41-08.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-27_19-41-20.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-56-27.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-56-54.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-57-11.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-58-02.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-58-09.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_01-59-34.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_02-04-32.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-08-04.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-08-11.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-33-52.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-33-59.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-34-07.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-35-11.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-35-18.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-35-55.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-36-02.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-37-18.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-37-25.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-38-59.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-39-06.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-41-57.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-42-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-43-34.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-43-41.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-43-49.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-48-51.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-48-58.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-49-06.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-50-11.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-50-18.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-50-25.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-51-26.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_15-51-33.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-39-32.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-39-39.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-39-46.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-41-33.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-41-41.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-43-02.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-43-09.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-58-13.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-28_17-58-20.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_16-51-57.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_17-18-59.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-24-58.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-28-41.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-29-40.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-30-29.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-34-52.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_19-41-02.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-08-10.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-08-17.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-08-24.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-13-33.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-13-40.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_20-13-47.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_21-15-12.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-29_21-15-28.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_00-14-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_00-14-20.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_00-14-35.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_00-14-43.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_00-23-02.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_16-08-06.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-30_16-09-29.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-31_23-59-04.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-10-31_23-59-11.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-11-01_00-00-08.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/erledigteTrigger/Email_2018-11-01_00-00-40.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_18-59-04.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-01-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-02-38.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-05-14.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-06-44.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-07-03.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-07-41.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-09-01.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-13-54.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-16-17.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-26_19-18-05.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-27_17-30-00.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-29_20-08-32.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-29_20-13-54.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/error/Email_2018-10-30_16-57-29.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-18-42.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-20-34.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-21-53.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-37-43.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-38-27.msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriggerSection/verpassteTrigger/Email_2018-10-30_16-56-54.msg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/Diss.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Diss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/SeleniumDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SeleniumDriver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -303,7 +433,7 @@
     <session id="-1607946374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -321,12 +451,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="343" />
+          <entry key="py" value="511" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="343" />
+          <entry key="Python" value="511" />
         </counts>
       </usages-collector>
     </session>
@@ -357,8 +487,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/Diss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="67" column="91" selection-start-line="67" selection-start-column="91" selection-end-line="67" selection-end-column="91" />
+            <state relative-caret-position="391">
+              <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -967,8 +1097,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Diss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="67" column="91" selection-start-line="67" selection-start-column="91" selection-end-line="67" selection-end-column="91" />
+        <state relative-caret-position="391">
+          <caret line="56" column="23" lean-forward="true" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
