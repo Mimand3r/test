@@ -2,6 +2,7 @@
 import time
 from pathlib import Path
 import os
+from datetime import datetime
 
 
 # Eigene Module
@@ -15,6 +16,7 @@ from lib.JSON import schreibe_zeile_in_json
 from lib.SettingsReader import Settings, lese_settings
 from lib.EmailMover import move_email
 from lib.SendeModul import ErrorMessages, InfoMessages, sende_nachricht
+from lib.Jira import mache_jira_ticket
 
 # ----------------------------------------------------------------------
 # EinstellParameter
@@ -32,7 +34,8 @@ json_file_name = "runData.json"  # Wird benutzt zur Rückgabe der Infos an dotNe
 # Dev Parameters
 
 turn_off_Diss = False
-turn_off_Jira = True
+turn_off_Jira = False
+jira_nicht_voll_ausloesen = True
 
 # -----------------------------------------------------------------------
 if __name__ == "__main__":
@@ -81,6 +84,8 @@ if __name__ == "__main__":
             # Lese Email aus
             try:
                 information = lese_email_msg(information, child)
+                information.datum = datetime.now().date()
+                information.zeit = datetime.now().time().__str__().split(".")[0]
                 sende_nachricht(info_message=InfoMessages.EmailGelesen)
             except:
                 print("unerwartete Struktur der Email")
@@ -113,8 +118,8 @@ if __name__ == "__main__":
             move_email(child, erledigt_folder)
 
             # Erstelle Jira Ticket
-            # if not turn_off_Jira:
-            #       Jiraticket
+            if not turn_off_Jira:
+                mache_jira_ticket(information, jira_nicht_voll_ausloesen)
 
             # neue Zeile in Excel
             try:

@@ -9,7 +9,7 @@ from lib.SeleniumDriver import driver_setup
 import time
 
 
-def mache_jira_ticket(information: Information):
+def mache_jira_ticket(information: Information, jira_nicht_voll_ausloesen : bool):
 
     # Jira Setup
     jira_url = "https://cocoa.volkswagen.de/sjira/issues/"
@@ -108,5 +108,6 @@ def mache_jira_ticket(information: Information):
     autor.send_keys(information.bnr)
 
     # # Absenden Button
-    # absenden = driver.find_element_by_id("create-issue-submit")
-    # absenden.click()
+    if not jira_nicht_voll_ausloesen:
+        absenden = driver.find_element_by_id("create-issue-submit")
+        absenden.click()

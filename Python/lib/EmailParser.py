@@ -11,9 +11,12 @@ def lese_email_msg(information: Information, file: Path):
         # Lese PostfachFilter (Titel der Email)
         information.postfach_filter = msg.subject
         # Lese Datum
-        information.datum = " ".join(msg.date.split(" ")[:4])
-        # Lese Zeit
-        information.zeit = msg.date.split(" ")[4]
+
+        # Depricated - Datum und Zeit aus Email zu lesen hat zu unkonstanz geführt
+            # information.datum = " ".join(msg.date.split(" ")[:4])
+            # Lese Zeit
+            # information.zeit = msg.date.split(" ")[4]
+
         # Lese Postfach
         information.postfach = msg.to.split('e')[1].split('@')[0]
         # Lese Auftragsnummer

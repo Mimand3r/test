@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d8178b3-207b-4717-b5d8-8cb5a97a8fc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/.vs/TP_DotNet/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/bin/Debug/TP_DotNet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.Pages.PageEinstellungen.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.Pages.PageEinstellungen.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csproj.GenerateResource.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../DotNet/obj/Debug/TP_DotNet.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ticket-Prompter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Diss.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Diss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketPrompter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TicketPrompter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/EmailParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/EmailParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Jira.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Jira.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -317,10 +308,11 @@
     <session id="-1607946374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -335,12 +327,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="549" />
+          <entry key="py" value="874" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="549" />
+          <entry key="Python" value="874" />
         </counts>
       </usages-collector>
     </session>
@@ -367,11 +359,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
+            <state relative-caret-position="589">
+              <caret line="55" column="72" lean-forward="true" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
               <folding>
                 <element signature="e#54#65#0" expanded="true" />
               </folding>
@@ -388,11 +380,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Diss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+            <state relative-caret-position="1156">
+              <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -412,8 +404,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Jira.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="-6">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -454,8 +446,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/EmailParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+            <state relative-caret-position="306">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -510,7 +502,6 @@
         <option value="$PROJECT_DIR$/test_pyDep.py" />
         <option value="$PROJECT_DIR$/testDissLogin.py" />
         <option value="$PROJECT_DIR$/testeJira.py" />
-        <option value="$PROJECT_DIR$/lib/EmailParser.py" />
         <option value="$PROJECT_DIR$/userProfileHowTo.py" />
         <option value="$PROJECT_DIR$/lib/Login.py" />
         <option value="$PROJECT_DIR$/lib/worker/CheckeGeltungszeitaum.py" />
@@ -520,10 +511,11 @@
         <option value="$PROJECT_DIR$/lib/worker/json_writing_worker.py" />
         <option value="$PROJECT_DIR$/lib/JSON.py" />
         <option value="$PROJECT_DIR$/lib/SendeModul.py" />
-        <option value="$PROJECT_DIR$/TicketPrompter.py" />
-        <option value="$PROJECT_DIR$/lib/Jira.py" />
         <option value="$PROJECT_DIR$/lib/SeleniumDriver.py" />
         <option value="$PROJECT_DIR$/lib/Diss.py" />
+        <option value="$PROJECT_DIR$/lib/EmailParser.py" />
+        <option value="$PROJECT_DIR$/TicketPrompter.py" />
+        <option value="$PROJECT_DIR$/lib/Jira.py" />
       </list>
     </option>
   </component>
@@ -665,9 +657,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TicketPrompter.py" />
@@ -798,8 +790,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25814235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -930,20 +923,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Diss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/SeleniumDriver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Jira.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -973,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/EmailParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+        <state relative-caret-position="306">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -988,22 +981,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
+    <entry file="file://$PROJECT_DIR$/lib/Jira.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
+        <state relative-caret-position="-6">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
-            <element signature="e#54#65#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Diss.py">
+    <entry file="file://$PROJECT_DIR$/TicketPrompter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        <state relative-caret-position="589">
+          <caret line="55" column="72" lean-forward="true" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#54#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
