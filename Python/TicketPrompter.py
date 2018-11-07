@@ -36,6 +36,7 @@ json_file_name = "runData.json"  # Wird benutzt zur Rückgabe der Infos an dotNe
 turn_off_Diss = False
 turn_off_Jira = False
 jira_nicht_voll_ausloesen = True
+diss_nicht_voll_ausloesen = True
 
 # -----------------------------------------------------------------------
 if __name__ == "__main__":
@@ -97,7 +98,7 @@ if __name__ == "__main__":
             # Erstelle Diss Ticket
             if not turn_off_Diss:
                 sende_nachricht(info_message=InfoMessages.DissTicketErstellungGestartet)
-                information = mache_diss_ticket(settings, information)  # liest Zusatzinformationen aus
+                information = mache_diss_ticket(settings, information, diss_nicht_voll_ausloesen)  # liest Zusatzinformationen aus
             else:
                 sende_nachricht(info_message=InfoMessages.FakeDissTicket)
 

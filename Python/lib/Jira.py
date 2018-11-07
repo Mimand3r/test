@@ -3,6 +3,7 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support.ui import Select
+from time import sleep
 
 from lib import Information
 from lib.SeleniumDriver import driver_setup
@@ -111,3 +112,7 @@ def mache_jira_ticket(information: Information, jira_nicht_voll_ausloesen : bool
     if not jira_nicht_voll_ausloesen:
         absenden = driver.find_element_by_id("create-issue-submit")
         absenden.click()
+    else:
+        sleep(5)
+
+    driver.close()

@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-
+from time import sleep
 
 from lib import Information
 from lib.SettingsReader import Settings
@@ -13,7 +13,8 @@ from lib.SendeModul import ErrorMessages, sende_nachricht
 from lib.SeleniumDriver import driver_setup
 
 
-def mache_diss_ticket(settings: Settings, information: Information):
+
+def mache_diss_ticket(settings: Settings, information: Information, diss_nicht_voll_ausloesen : bool):
 
     """
     Performed auf der übergebenen Diss url das erstellen eines Tickets
@@ -112,15 +113,17 @@ def mache_diss_ticket(settings: Settings, information: Information):
         driver.close()
 
     # Button Klick
-    try:
-        driver.execute_script("document.getElementById('B_BtnSenden').disabled = false")
+    if not diss_nicht_voll_ausloesen:
+        try:
+            driver.execute_script("document.getElementById('B_BtnSenden').disabled = false")
 
-        button = driver.find_element_by_id("B_BtnSenden")
-        button.click()
-    except:
-        sende_nachricht(error_message=ErrorMessages.DissTicketErstellenButton)
-        driver.close()
-
+            button = driver.find_element_by_id("B_BtnSenden")
+            button.click()
+        except:
+            sende_nachricht(error_message=ErrorMessages.DissTicketErstellenButton)
+            driver.close()
+    else:
+        sleep(5)
     # Schließe Driver
     driver.close()
     return information
