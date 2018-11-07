@@ -46,10 +46,10 @@ if __name__ == "__main__":
     sende_nachricht(info_message=InfoMessages.SettingsGelesen)
 
     # Erzeuge neue Excel
-    try:
-        erstelle_excel_datei(ergebnis_ordner)
-    except:
-        sende_nachricht(error_message=ErrorMessages.ErstellungExcelDatei)
+    # try:
+    #     erstelle_excel_datei(ergebnis_ordner)
+    # except:
+    #     sende_nachricht(error_message=ErrorMessages.ErstellungExcelDatei)
 
     # Mache Eintrag in JSON
     # try:
@@ -123,11 +123,11 @@ if __name__ == "__main__":
                 mache_jira_ticket(information, jira_nicht_voll_ausloesen)
 
             # neue Zeile in Excel
-            try:
-                schreibe_zeile_in_excel(information)
-                sende_nachricht(info_message=InfoMessages.InformationenInExcelGeschrieben)
-            except:
-                sende_nachricht(error_message=ErrorMessages.ExcelZeileSchreiben)
+            # try:
+            #     schreibe_zeile_in_excel(information)
+            #     sende_nachricht(info_message=InfoMessages.InformationenInExcelGeschrieben)
+            # except:
+            #     sende_nachricht(error_message=ErrorMessages.ExcelZeileSchreiben)
 
             # neue Zeile in JSON
             # try:
