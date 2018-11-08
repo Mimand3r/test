@@ -1,6 +1,6 @@
 Username:RFA0VEczSw==
 Passwort:VWxsaVVsbGk3Njg3Mg==
-InterneNotiz:#Postfach
-Ansprache:Sehr geehrter Volkswagenpartner, Sie haben eine Feldbeobachtung ausgelöst. Bitte noch keine Reparaturversuche durchführen! Können Sie die Kundenbeanstandung nachvollziehen/reproduzieren? Unter welchen Umständen tritt die Beanstandung auf? Bitte teilen Sie uns ihr erstes Diagnoseergebnis mit. Des Weiteren fügen Sie bitte ein aktuelles Eigendiagnoseprotokoll (Gesamtfahrzeug) und die Messwertblöcke des Getriebes den Anlagen hinzu. Bei Nutzung von ODIS/UDS, bitte alle relevanten MWB bzw. IDE´s vom Getriebesteuergerät auswählen. Mechanische Schäden sind mit Fotos in der Anlage zu dokumentieren. Nutzen Sie bitte zur besseren Beschreibung der Beanstandung, den angehängten Fragebogen. Freundliche Grüße Tobias Huthwelker 
+InterneNotiz:DQ250
+Ansprache:Sehr geehrter Volkswagenpartner, Sie haben eine Feldbeobachtung ausgelöst. Bitte noch keine Reparaturversuche durchführen! Können Sie die Kundenbeanstandung nachvollziehen/reproduzieren? Unter welchen Umständen tritt die Beanstandung auf? Bitte teilen Sie uns ihr erstes Diagnoseergebnis mit. Des Weiteren fügen Sie bitte ein aktuelles Eigendiagnoseprotokoll (Gesamtfahrzeug) und die Messwertblöcke des Getriebes den Anlagen hinzu. Bei Nutzung von ODIS/UDS, bitte alle relevanten MWB bzw. IDE´s vom Getriebesteuergerät auswählen. Mechanische Schäden sind mit Fotos in der Anlage zu dokumentieren. Nutzen Sie bitte zur besseren Beschreibung der Beanstandung, den angehängten Fragebogen. Freundliche Grüße Ulli Kimbel
 Geltungszeitraum:24
 JiraAktiviert:

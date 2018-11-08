@@ -14,8 +14,6 @@ def move_email(email: Path, ziel_ordner: str):
 
     # Konstruiere neuen Namen
     zeit_stempel = datetime.datetime.now().__str__().split(".")[0].replace(" ", "_").replace(":", "-")
-    print("test")
-    print(zeit_stempel)
     name = "Email_{}.msg".format(zeit_stempel)
     # Verschiebe und benenne um
     try:
